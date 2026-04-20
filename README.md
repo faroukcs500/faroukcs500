@@ -28,7 +28,7 @@
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 <hr></hr>
 
-<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h3>
+<h3>A little more about me...</h3>
 
 ```csharp
 class AI_Engineer : FaroukMohamed { 
